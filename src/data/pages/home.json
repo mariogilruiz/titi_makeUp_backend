@@ -1,0 +1,14 @@
+{
+  "slug": "home",
+  "title": "Inicio",
+  "published": true,
+  "updatedAt": "2026-05-05",
+  "sections": [
+    {
+      "key": "hero",
+      "heading": "Maquillaje profesional para eventos",
+      "body": "Texto...",
+      "order": 1
+    }
+  ]
+}
