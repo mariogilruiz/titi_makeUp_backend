@@ -6,9 +6,18 @@
   "sections": [
     {
       "key": "hero",
-      "heading": "Maquillaje profesional para eventos",
-      "body": "Texto...",
+      "heading": "Maquillaje profesional para novias, invitadas y eventos a domicilio en Valencia.",
+      "body": [
+        "Potencia tu belleza natural a través de técnicas profesionales de maquillaje y productos de alta cosmética, logrando un resultado elegante y de fijación prolongada. ",
+        "Con más de 12 años de experiencia como maquilladora profesional en alta cosmética, pasarelas, eventos, shootings, cine y Tv."
+      ],
       "order": 1
+    },
+    {
+      "key": "section_02",
+      "heading": "Una visión del maquillaje <br> donde la belleza natural es la protagonista",
+
+      "order": 2
     }
   ]
 }
