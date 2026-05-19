@@ -16,8 +16,77 @@
     {
       "key": "section_02",
       "heading": "Una visión del maquillaje <br> donde la belleza natural es la protagonista",
-
       "order": 2
+    },
+    {
+      "key": "section_03",
+      "heading": "Si el día de tu boda quieres un maquillaje profesional que te haga sentir <strong>elegante, luminosa y natural</strong>, sigue leyendo: esto te interesa.",
+      "order": 3,
+      "h3": "Servicios Novia",
+      "services": [
+        "Asesoramiento y atención personalizada",
+        "Entrevista previa y prueba de novia (Opcional)",
+        "Estudio de la piel y rutina skincare",
+        "Maquillaje profesional del día de la Boda",
+        "Pestañas postizas",
+        "Servicio a domicilio (Casa, hotel, masia)"
+      ]
+    },
+    {
+      "key": "section_04",
+      "order": 4,
+      "cards": [
+        {
+          "src": "/api/proxy-image/home/slider_home_01.jpg",
+          "text": "Prueba de maquillaje a domicilio, para que no tengas que preocuparte de nada y puedas disfrutar del proceso con calma"
+        },
+        {
+          "src": "/api/proxy-image/home/slider_home_02.jpg",
+          "text": "Haremos estudio de la piel para asesorarte con una rutina de skincare.Todo se diseñateniendo en cuenta el bridal look para que el conjunto sea coherente, elegante y fiel a ti"
+        },
+        {
+          "src": "/api/proxy-image/home/slider_home_03.jpg",
+          "text": "Realizaremos una pequeña entrevista previa para conocer tus gustos, tu estilo y el tipo de acabado que deseas"
+        },
+        {
+          "src": "/api/proxy-image/home/slider_home_04.jpg",
+          "text": "Día B: ¡Y por fin llega el día! El día de tu boda crearé un entorno de calma y confianza para que disfrutes de tu momento beauty sin prisas. Te acompañaré hasta el último retoque, asegurándome de que todo quede impecable antes de salir"
+        },
+        {
+          "src": "/api/proxy-image/home/slider_home_05.jpg",
+          "text": "Maquillaje profesional para invitadas y familiares, para que todas os veáis radiantes y el servicio siga el mismo estilo elegante y cuidado"
+        }
+      ]
+    },
+    {
+      "key": "section_05",
+      "order": 5,
+      "cards": [
+        {
+          "src": "/api/proxy-image/home/slider_home_04.jpg",
+          "h3": "Servicio de Invitada o social",
+          "services": [
+            "Asesoramiento y atención personalizada",
+            "Entrevista previa y prueba de novia (Opcional)",
+            "Estudio de la piel y rutina skincare",
+            "Maquillaje profesional del día de la Boda",
+            "Pestañas postizas",
+            "Servicio a domicilio (Casa, hotel, masia)"
+          ]
+        },
+        {
+          "src": "/api/proxy-image/home/slider_home_04.jpg",
+          "h3": "cursos de automaquillaje",
+          "services": [
+            "Asesoramiento y atención personalizada",
+            "Entrevista previa y prueba de novia (Opcional)",
+            "Estudio de la piel y rutina skincare",
+            "Maquillaje profesional del día de la Boda",
+            "Pestañas postizas",
+            "Servicio a domicilio (Casa, hotel, masia)"
+          ]
+        }
+      ]
     }
   ]
 }

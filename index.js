@@ -7,6 +7,8 @@ const cors = require("cors");
 //-----importar rutas
 const datasRoutes = require("./src/api/routes/datas.routes");
 const mailRoutes = require("./src/api/routes/mail.routes");
+const imagesRoutes = require("./src/api/routes/images.routes");
+const uploadRoutes = require("./src/api/routes/upload.routes");
 
 const FRONTEND_ORIGIN = process.env.FRONTEND_ORIGIN || "http://localhost:3000";
 const API_SECRET = process.env.API_SECRET;
@@ -14,6 +16,13 @@ const API_SECRET = process.env.API_SECRET;
 //-----configuraciones
 const app = express();
 app.use(express.json());
+
+// Servir imágenes estáticamente
+const path = require("path");
+app.use(
+  "/images",
+  express.static(path.join(__dirname, "src", "data", "images")),
+);
 
 // Habilita CORS
 app.use(
@@ -52,6 +61,8 @@ app.get("/api/health", (req, res) => {
 //-----endpoints
 app.use("/data", requireApiKey, datasRoutes);
 app.use("/contact", mailRoutes);
+app.use("/images", imagesRoutes); // GET dinámico de imágenes
+app.use("/upload", requireApiKey, uploadRoutes); // POST para subir imágenes
 
 //-----iniciar servidor
 const PORT = process.env.PORT || 4000;
