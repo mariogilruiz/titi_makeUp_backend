@@ -41,6 +41,14 @@ async function getPageBySlug(req, res) {
       return res.status(404).json({ message: "Pagina no publicada" });
     }
 
+    if (slug === "personal") {
+      return res.json({
+        slug: page.slug,
+        updatedAt: page.updatedAt,
+        data: page.data || {},
+      });
+    }
+
     const sections = [...(page.sections || [])].sort(
       (a, b) => a.order - b.order,
     );

@@ -7,6 +7,7 @@
     {
       "key": "hero",
       "heading": "Maquillaje profesional para novias, invitadas y eventos a domicilio en Valencia.",
+      "src": "/api/proxy-image/home/foto-hero.jpg",
       "body": [
         "Potencia tu belleza natural a través de técnicas profesionales de maquillaje y productos de alta cosmética, logrando un resultado elegante y de fijación prolongada. ",
         "Con más de 12 años de experiencia como maquilladora profesional en alta cosmética, pasarelas, eventos, shootings, cine y Tv."
@@ -63,8 +64,8 @@
       "order": 5,
       "cards": [
         {
-          "src": "/api/proxy-image/home/slider_home_04.jpg",
-          "h3": "Servicio de Invitada o social",
+          "src": "/api/proxy-image/home/slider_home_03.jpg",
+          "h2": "Servicio de Invitada o social",
           "services": [
             "Asesoramiento y atención personalizada",
             "Entrevista previa y prueba de novia (Opcional)",
@@ -76,7 +77,7 @@
         },
         {
           "src": "/api/proxy-image/home/slider_home_04.jpg",
-          "h3": "cursos de automaquillaje",
+          "h2": "cursos de automaquillaje",
           "services": [
             "Asesoramiento y atención personalizada",
             "Entrevista previa y prueba de novia (Opcional)",
