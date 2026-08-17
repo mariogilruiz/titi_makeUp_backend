@@ -10,7 +10,7 @@ const mailRoutes = require("./src/api/routes/mail.routes");
 const imagesRoutes = require("./src/api/routes/images.routes");
 const uploadRoutes = require("./src/api/routes/upload.routes");
 
-const FRONTEND_ORIGIN = process.env.FRONTEND_ORIGIN || "http://localhost:3000";
+const FRONTEND_ORIGIN = process.env.FRONTEND_ORIGIN;
 const API_SECRET = process.env.API_SECRET;
 
 //-----configuraciones

@@ -6,7 +6,7 @@
   "sections": [
     {
       "key": "hero",
-      "heading": "Maquillaje profesional para novias, invitadas y eventos a domicilio en Valencia.",
+      "heading": "Maquillaje profesional.",
       "src": "/api/proxy-image/home/foto-hero.jpg",
       "body": [
         "Potencia tu belleza natural a través de técnicas profesionales de maquillaje y productos de alta cosmética, logrando un resultado elegante y de fijación prolongada. ",
@@ -21,71 +21,73 @@
     },
     {
       "key": "section_03",
-      "heading": "Si el día de tu boda quieres un maquillaje profesional que te haga sentir <strong>elegante, luminosa y natural</strong>, sigue leyendo: esto te interesa.",
+      "heading": "Si sueñas con un maquillaje de novia elegante, luminoso y natural, esta experiencia es para ti.",
       "order": 3,
-      "h3": "Servicios Novia",
-      "services": [
-        "Asesoramiento y atención personalizada",
-        "Entrevista previa y prueba de novia (Opcional)",
-        "Estudio de la piel y rutina skincare",
-        "Maquillaje profesional del día de la Boda",
-        "Pestañas postizas",
-        "Servicio a domicilio (Casa, hotel, masia)"
+      "cards": [
+        {
+          "heading": "Reunión inicial",
+          "body": "Comenzamos con una primera toma de contacto por teléfono o videollamada para conocernos, resolver dudas y entender tu estilo, tus gustos y todos los detalles de tu boda. Este primer paso me permite diseñar una propuesta de maquillaje totalmente personalizada y fiel a ti."
+        },
+        {
+          "heading": "Prueba de novia",
+          "body": "En la prueba daremos forma al look de maquillaje para tu día, teniendo en cuenta tus rasgos, el estado de tu piel, tus preferencias y la armonía con todo el estilismo nupcial. El objetivo es crear un resultado elegante, natural y equilibrado, con el que te sientas segura y plenamente tú."
+        },
+        {
+          "heading": "Día de la boda",
+          "body": "El Día B me desplazaré al lugar donde hayas elegido prepararte para recrear el look definido en la prueba, cuidando cada detalle en un ambiente de calma, confianza y sin prisas. Un momento beauty pensado para que disfrutes y te sientas acompañada desde el primer minuto."
+        }
       ]
     },
     {
       "key": "section_04",
+      "heading": "La experiencia también incluye",
+      "image": "/api/proxy-image/home/foto-hero.jpg",
+      "image_position": "end",
       "order": 4,
       "cards": [
         {
-          "src": "/api/proxy-image/home/slider_home_01.jpg",
-          "text": "Prueba de maquillaje a domicilio, para que no tengas que preocuparte de nada y puedas disfrutar del proceso con calma"
+          "heading": "Rutina skincare personalizada,",
+          "body": " con recomendaciones adaptadas a las necesidades de tu piel para prepararla antes de la boda y conseguir un acabado más luminoso, uniforme y duradero."
         },
         {
-          "src": "/api/proxy-image/home/slider_home_02.jpg",
-          "text": "Haremos estudio de la piel para asesorarte con una rutina de skincare.Todo se diseñateniendo en cuenta el bridal look para que el conjunto sea coherente, elegante y fiel a ti"
-        },
-        {
-          "src": "/api/proxy-image/home/slider_home_03.jpg",
-          "text": "Realizaremos una pequeña entrevista previa para conocer tus gustos, tu estilo y el tipo de acabado que deseas"
-        },
-        {
-          "src": "/api/proxy-image/home/slider_home_04.jpg",
-          "text": "Día B: ¡Y por fin llega el día! El día de tu boda crearé un entorno de calma y confianza para que disfrutes de tu momento beauty sin prisas. Te acompañaré hasta el último retoque, asegurándome de que todo quede impecable antes de salir"
-        },
-        {
-          "src": "/api/proxy-image/home/slider_home_05.jpg",
-          "text": "Maquillaje profesional para invitadas y familiares, para que todas os veáis radiantes y el servicio siga el mismo estilo elegante y cuidado"
+          "heading": "Kit de retoque personalizado,",
+          "body": "con los imprescindibles para mantener el maquillaje fresco y radiante durante toda la celebración."
         }
       ]
     },
     {
       "key": "section_05",
+      "heading": "OTRAS EXPERIENCIAS",
       "order": 5,
       "cards": [
         {
-          "src": "/api/proxy-image/home/slider_home_03.jpg",
-          "h2": "Servicio de Invitada o social",
-          "services": [
-            "Asesoramiento y atención personalizada",
-            "Entrevista previa y prueba de novia (Opcional)",
-            "Estudio de la piel y rutina skincare",
-            "Maquillaje profesional del día de la Boda",
-            "Pestañas postizas",
-            "Servicio a domicilio (Casa, hotel, masia)"
-          ]
+          "heading": "Asesoramiento inicial",
+          "body": "Hablaremos del tipo de evento, tu estilo, vestuario y preferencias para diseñar un maquillaje favorecedor, elegante y en armonía con todo el look."
         },
         {
-          "src": "/api/proxy-image/home/slider_home_04.jpg",
-          "h2": "cursos de automaquillaje",
-          "services": [
-            "Asesoramiento y atención personalizada",
-            "Entrevista previa y prueba de novia (Opcional)",
-            "Estudio de la piel y rutina skincare",
-            "Maquillaje profesional del día de la Boda",
-            "Pestañas postizas",
-            "Servicio a domicilio (Casa, hotel, masia)"
-          ]
+          "heading": "Preparación de la piel",
+          "body": "Prepararé la piel con productos adaptados a sus necesidades para conseguir un acabado natural, luminoso y confortable durante horas."
+        },
+        {
+          "heading": "Maquillaje del evento",
+          "body": "Realizaré un maquillaje profesional con alta cosmética, pensado para realzar tus rasgos sin transformar tu esencia y mantener un resultado elegante, pulido y de fijación prolongada."
+        }
+      ]
+    },
+    {
+      "key": "section_06",
+      "heading": "La experiencia también puede incluir",
+      "image": "/api/proxy-image/home/foto-hero.jpg",
+      "image_position": "start",
+      "order": 6,
+      "cards": [
+        {
+          "heading": "Servicio a domicilio,",
+          "body": "en casa, hotel, masía o lugar de preparación, para que puedas disfrutar del proceso con comodidad y sin desplazamientos."
+        },
+        {
+          "heading": "Maquillaje para varias invitadas,",
+          "body": "ideal para familiares, amigas o grupos que quieran prepararse juntas para una ocasión especial."
         }
       ]
     }
