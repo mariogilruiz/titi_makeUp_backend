@@ -9,8 +9,8 @@
       "heading": "Maquillaje profesional",
       "src": "/api/proxy-image/home/foto-hero.jpg",
       "body": [
-        "Potencia tu belleza natural a través de técnicas profesionales de maquillaje y productos de alta cosmética, logrando un resultado elegante y de fijación prolongada. ",
-        "Con más de 12 años de experiencia como maquilladora profesional en alta cosmética, pasarelas, eventos, shootings, cine y Tv."
+        "Potencia tu belleza natural a través de técnicas profesionales de maquillaje y productos de alta cosmética.",
+        "Soy Nuria, creo maquillajes armoniosos, que realzan tu esencia y te hacen brillar de una forma única."
       ],
       "order": 1
     },
@@ -21,7 +21,7 @@
     },
     {
       "key": "section_03",
-      "heading": "Si sueñas con un maquillaje de novia elegante, luminoso y natural, esta experiencia es para ti.",
+      "heading": "Si sueñas con un <b>maquillaje de novia</b> elegante, luminoso y natural, esta experiencia es para ti",
       "order": 3,
       "cards": [
         {
@@ -57,7 +57,7 @@
     },
     {
       "key": "section_05",
-      "heading": "OTRAS EXPERIENCIAS",
+      "heading": "OTRAS EXPERIENCIAS <b>PARA INVITADAS Y EVENTOS</b>",
       "order": 5,
       "cards": [
         {
@@ -82,12 +82,12 @@
       "order": 6,
       "cards": [
         {
-          "heading": "Servicio a domicilio,",
-          "body": "en casa, hotel, masía o lugar de preparación, para que puedas disfrutar del proceso con comodidad y sin desplazamientos."
+          "heading": "Desplazamiento a domicilio",
+          "body": "Me desplazo a tu casa, hotel, masía o lugar de preparación para que puedas disfrutar de todo el proceso con calma y comodidad."
         },
         {
-          "heading": "Maquillaje para varias invitadas,",
-          "body": "ideal para familiares, amigas o grupos que quieran prepararse juntas para una ocasión especial."
+          "heading": "Maquillaje para varias invitadas",
+          "body": "Ideal para familiares, amigas o grupos que quieran prepararse juntas para una ocasión especial."
         }
       ]
     }
